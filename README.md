@@ -1,4 +1,5 @@
 ## Welcome to GitHub Pages
+![GitHub Logo](Screen Shot 2017-01-20 at 3.07.41 PM.png)
 
 You can use the [editor on GitHub](https://github.com/jorawebdev/work/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
