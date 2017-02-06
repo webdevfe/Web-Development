@@ -62,6 +62,21 @@ The project involved a complete UI Architecture of the large scale application, 
 * Maven
 * Jenkins
 
+### skyPatrol: Pebble Smartwatch App (8/2016 - 2/2017)
+![skyPatrol](skypatrol3.png)
+
+skyPatrol displays real-time information of airplanes in the sky, based on user location.
+
+The app is built for smart watch Pebble. When user selects a button to load the info, a request to the API end point is made. The response is a JSON based object that returns data and renders on the screen of the watch.
+
+#### Tech Stack:
+* PHP API 
+* external API
+* JSON
+* Pebble.js
+* Pebble location
+* Pebble Ajax
+
 ### Monster Cable Products: Mobile Site (8/2016 - 2/2017)
 ![Monster Cable Products](client_monster.jpg)
 
