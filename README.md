@@ -141,3 +141,16 @@ Pharmacy project’s objective was to redesign the module, enhance user experien
 * JavaScript
 * HTML5
 * CSS3
+
+### eBay: shopping.com projects (7/2009 - 5/2010)
+![eBay Shopping.com](client_shopping.jpg)
+
+"Guides" feature, composed of individual widgets, allowed users to create, edit and publish their own customized rich content pages to the web and be searchable by search engines. The widgets were: "Product" with Ajax + JSON driven "Mini Search" component, "Image Upload", "WZWG Text Editor", "Embeded Video Upload". Implemented lazy loading, dynamic DOM manipulation, drag and drop, Ajax-based pagination, dynamic interactions and efficient Object Oriented JavaScript code.
+"Whislist" was introduced as one of the first e-commerce widgets that became popular with other e-commerce sites.
+
+#### Tech Stack: 
+* JavaScript
+* jQuery
+* jQuery plug-ins
+* HTML5
+* CSS3
