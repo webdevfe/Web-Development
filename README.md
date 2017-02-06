@@ -63,7 +63,7 @@ The project involved a complete UI Architecture of the large scale application, 
 * Jenkins
 
 ### skyPatrol: Pebble Smartwatch App (8/2016 - 2/2017)
-![skyPatrol](skypatrol3.png)
+![skyPatrol](skyPatrol_hero.jpg)
 
 skyPatrol displays real-time information of airplanes in the sky, based on user location.
 
