@@ -1,4 +1,4 @@
-## Stanford VPTL: HST project
+## Stanford VPTL: HST project (8/2016 - 2/2017)
 ![Stanford Home Page](Screen Shot 2017-01-20 at 3.07.41 PM.png)
 
 At Stanford VPTL group my responsibility was to architect and build Front End for the educational web application that allows professors to create and manage exams. The application is heavily focused on high level user interactions with web interface.
@@ -24,3 +24,5 @@ It allows to:
 * Java
 * SQL DB
 
+## Teradata: App Center 2.0 (8/2016 - 2/2017)
+![Teradata App Center](Teradata.gif)
