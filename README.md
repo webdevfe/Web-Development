@@ -1,3 +1,8 @@
+## Professional Experience: 
+Founder of zElement (data visualization app) and skyPatrol (Pebble App), hands-on Manager/Director, UI Architect with solid technical (MEAN stack), operations and product development experience in Agile environment. 
+
+My Tech Stach: Angular.js, Backbone.js, Knockout.js, Require.js, d3.js, Handlebars.js, Haml, Jade,  jQuery, Pebble.js, YUI, Dojo, Underscore.js, Node.js, Phantom.js, Bootstrap, Material Design, JSON, XML, HTML5, CSS3, APIs, AJAX, Socket.IO, PHP, JSP, XSS, Spring, Struts, VMware, XSLT, Java, Rails environments, r.js, Grunt.js, Gulp, Bower, Jenkins, MongoDB, mySQL, responsive design, Maven, Jenkins, Karma, Jasmin, Git, Git Gerrit, Docker.
+
 ### Stanford VPTL: HST project (7/2016 - 2/2017)
 ![Stanford Home Page](Screen Shot 2017-01-20 at 3.07.41 PM.png)
 
