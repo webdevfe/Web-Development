@@ -154,3 +154,16 @@ Pharmacy project’s objective was to redesign the module, enhance user experien
 * jQuery plug-ins
 * HTML5
 * CSS3
+
+### BARCLAYS GLOBAL INVESTORS: Tools (6/2008 - 6/2009)
+![BGI tools](tools_barclays.jpg)
+
+Project "Tools" was released in Q-3 of 2009. The objective was to introduce a new, easy and highly interactive experience for users to preview their financial analysis data summary.
+
+Lazy loading concept allowed smart and fast on-demand data loading, thus allowing significantly faster performance on the Front End. Data Visualization allowed dynamic rendering and interaction of charts.
+
+#### Tech Stack: 
+* JavaScript
+* jQplot.js
+* HTML5
+* CSS3
