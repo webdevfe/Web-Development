@@ -75,3 +75,33 @@ Enhanced functionality and layout of various components including navigation, su
 * jQuery plug-ins
 * Bootstrap Mobile
 * .Net
+
+### e8Security: Data Visualization (8/2016 - 2/2017)
+![Botnet Data Viz](botnetClusterFull.png)
+
+Botnet Cluster Visualization Prototype is a proof of concept for visualizing security intelegence data. The graph communicates a scenario where a source IP/domain sends data to destination IP/domain at a particular time period. The feature is built around asynchronous client-server communications utilizing RESful API services, data transformation and custom formatting to feed and render the graph, as well as real-time rich interactions.
+
+#### Tech Stack:
+* d3.js
+* Node.js
+* Angular.js
+* Backbone.js
+* Require.js
+* Handlebars
+* Javascript + jQuery.js
+* CSS
+* HTML5
+* Bootstrap
+
+### AT&T: AIR BI Tool (8/2016 - 2/2017)
+![AT&T AIR](ATT_AdWorks_AIR.png)
+
+AT&T’s project AIR entailed building a Business Intelegence Tool for advertisement reporting and analytics. The tool pulled daily Big Data reports (TV, Cell phone, web), rendering in dynamic Data Visualization modules and thus allowing to interact and make scientific inferences, forecasts and computations.
+
+#### Tech Stack: 
+* d3.js
+* JavaScript, jQuery
+* Backbone.js with Require.js
+* Node.js, Phantom.js
+* HTML5
+* CSS3
