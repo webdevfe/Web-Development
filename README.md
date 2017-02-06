@@ -41,7 +41,7 @@ The project involved building the next version of AppCenter dashboard with up-to
 * Docker Containers
 
 ### Cisco Intercloud: AMP (Account Management Portal) (8/2016 - 2/2017)
-![Cisco](ciscoadminfinal.jpg)
+![Cisco](ciscoamp.jpg)
 
 This portal was built to allow CISCO Cloud users to have a consistent flow and seamless experience of interacting with various external CISCO systems.
 
@@ -61,3 +61,17 @@ The project involved a complete UI Architecture of the large scale application, 
 * redhat
 * Maven
 * Jenkins
+
+### Monster Cable Products: Mobile Site (8/2016 - 2/2017)
+![Monster Cable Products](client_monster.jpg)
+
+Converted and refactored site's code to support mobile viewing experience and functionality. The site dynamically adjusts to various mobile devices, including iPhone, iPad and Android.
+
+Enhanced functionality and layout of various components including navigation, supporting pages navigation, product main pages, main Responsive Design for main story page (http://www.monsterproducts.com/head-monster-story).
+
+#### Tech Stack: 
+* CSS3 with animations and media queries
+* JavaScript
+* jQuery plug-ins
+* Bootstrap Mobile
+* .Net
