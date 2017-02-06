@@ -115,7 +115,7 @@ Botnet Cluster Visualization Prototype is a proof of concept for visualizing sec
 * HTML5
 * Bootstrap
 
-### AT&T: AIR BI Tool (11/2011 - 10/2013)
+### AT&T: AIR BI Tool (5/2011 - 10/2013)
 ![AT&T AIR](ATT_AdWorks_AIR.png)
 
 AT&T’s project AIR entailed building a Business Intelegence Tool for advertisement reporting and analytics. The tool pulled daily Big Data reports (TV, Cell phone, web), rendering in dynamic Data Visualization modules and thus allowing to interact and make scientific inferences, forecasts and computations.
@@ -125,5 +125,19 @@ AT&T’s project AIR entailed building a Business Intelegence Tool for advertise
 * JavaScript, jQuery
 * Backbone.js with Require.js
 * Node.js, Phantom.js
+* HTML5
+* CSS3
+
+### Walmart: Vudu, Pharmacy projects (04/2010 - 05/2011)
+![Walmart Vudu](client_walmart_thumb.jpg)
+
+Walmart’s Vudu Video Service required client-side code optimization to enhance performance and transition from YUI to jQuery library support.
+
+Pharmacy project’s objective was to redesign the module, enhance user experience and support new features. Asynchronous client-server content exhange leveraged via JavaScript, jQuery and JSON as well as re-architecture of global components have improved overall site performance and thus user experience.
+
+#### Tech Stack: 
+* YUI
+* jQuery
+* JavaScript
 * HTML5
 * CSS3
