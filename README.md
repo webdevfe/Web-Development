@@ -155,15 +155,30 @@ Pharmacy project’s objective was to redesign the module, enhance user experien
 * HTML5
 * CSS3
 
-### BARCLAYS GLOBAL INVESTORS: Tools (6/2008 - 6/2009)
+### BARCLAYS GLOBAL INVESTORS: Tools, Internationalization Mexico (6/2008 - 6/2009)
 ![BGI tools](tools_barclays.jpg)
 
 Project "Tools" was released in Q-3 of 2009. The objective was to introduce a new, easy and highly interactive experience for users to preview their financial analysis data summary.
 
-Lazy loading concept allowed smart and fast on-demand data loading, thus allowing significantly faster performance on the Front End. Data Visualization allowed dynamic rendering and interaction of charts.
+Lazy loading concept allowed smart and fast on-demand data loading, thus allowing significantly faster performance on the Front End. Data Visualization allowed dynamic rendering and interaction of charts. Implemented system internationalization to serve Latin America.
 
 #### Tech Stack: 
 * JavaScript
 * jQplot.js
-* HTML5
+* HTML
+* CSS3
+
+### Macy's (3/2007 - 5/2008)
+![macys](macys_sa.jpg)
+
+A highly desired feature, "Find It In Store", was launched on macy's site to provide users with convenient experience of checking a product’s in-store availability in a near-by macy's store location. It enabled users with an easy, fun and convenient online shopping experience by allowing them in real-time to check whether an item is available, draw directions to the closest macy’s store and print out the map and the barcode.
+
+YUI libraries, MapQuest API intergration, Ajax with JSON formated data, CSS were the main technologies and implementations used to develop this wizard-like flow.
+
+#### Tech Stack: 
+* YUI
+* JavaScript
+* MapQuest API
+* XML
+* HTML
 * CSS3
