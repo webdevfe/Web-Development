@@ -23,7 +23,7 @@ It allows to:
 * Supports Responsive Design
 * Supports Assesibility
 
-#### Tech Stack:
+##### Tech Stack:
 * Angular 1.5 with Require.js
 * Angular Bootstrap UI
 * Data Structures
@@ -39,7 +39,7 @@ It allows to:
 
 The project involved building the next version of AppCenter dashboard with up-to-date UI and UX, better performance and richer features. Integrated Login Auth, LDAP Settings, JSON validation, Stepper and other modules.
 
-#### Tech Stack: 
+##### Tech Stack: 
 * Angular 2.0
 * Angular Material Design
 * Angular-Formly: Material Templates
@@ -56,7 +56,7 @@ This portal was built to allow CISCO Cloud users to have a consistent flow and s
 
 The project involved a complete UI Architecture of the large scale application, integration with external and internal system components, RESTful API, security, authentication, SSO support, permissions, cross system communication, performance optimization, responsive design and more.
 
-#### Tech Stack: 
+##### Tech Stack: 
 * Angular.js + Require.js
 * Data Structures
 * Java
@@ -79,7 +79,7 @@ skyPatrol displays real-time information of airplanes in the sky, based on user 
 
 The app is built for smart watch Pebble. When user selects a button to load the info, a request to the API end point is made. The response is a JSON based object that returns data and renders on the screen of the watch.
 
-#### Tech Stack:
+##### Tech Stack:
 * PHP API 
 * external API
 * JSON
@@ -94,7 +94,7 @@ Converted and refactored site's code to support mobile viewing experience and fu
 
 Enhanced functionality and layout of various components including navigation, supporting pages navigation, product main pages, main Responsive Design for main story page (http://www.monsterproducts.com/head-monster-story).
 
-#### Tech Stack: 
+##### Tech Stack: 
 * CSS3 with animations and media queries
 * JavaScript
 * jQuery plug-ins
@@ -106,7 +106,7 @@ Enhanced functionality and layout of various components including navigation, su
 
 Botnet Cluster Visualization Prototype is a proof of concept for visualizing security intelegence data. The graph communicates a scenario where a source IP/domain sends data to destination IP/domain at a particular time period. The feature is built around asynchronous client-server communications utilizing RESful API services, data transformation and custom formatting to feed and render the graph, as well as real-time rich interactions.
 
-#### Tech Stack:
+##### Tech Stack:
 * d3.js
 * Data Structures
 * Node.js
@@ -124,7 +124,7 @@ Botnet Cluster Visualization Prototype is a proof of concept for visualizing sec
 
 AT&T’s project AIR entailed building a Business Intelegence Tool for advertisement reporting and analytics. The tool pulled daily Big Data reports (TV, Cell phone, web), rendering in dynamic Data Visualization modules and thus allowing to interact and make scientific inferences, forecasts and computations.
 
-#### Tech Stack: 
+##### Tech Stack: 
 * d3.js
 * JavaScript, jQuery
 * Data Structures
@@ -140,7 +140,7 @@ Walmart’s Vudu Video Service required client-side code optimization to enhance
 
 Pharmacy project’s objective was to redesign the module, enhance user experience and support new features. Asynchronous client-server content exhange leveraged via JavaScript, jQuery and JSON as well as re-architecture of global components have improved overall site performance and thus user experience.
 
-#### Tech Stack: 
+##### Tech Stack: 
 * YUI
 * jQuery
 * JavaScript
@@ -154,7 +154,7 @@ Pharmacy project’s objective was to redesign the module, enhance user experien
 "Guides" feature, composed of individual widgets, allowed users to create, edit and publish their own customized rich content pages to the web and be searchable by search engines. The widgets were: "Product" with Ajax + JSON driven "Mini Search" component, "Image Upload", "WZWG Text Editor", "Embeded Video Upload". Implemented lazy loading, dynamic DOM manipulation, drag and drop, Ajax-based pagination, dynamic interactions and efficient Object Oriented JavaScript code.
 "Whislist" was introduced as one of the first e-commerce widgets that became popular with other e-commerce sites.
 
-#### Tech Stack: 
+##### Tech Stack: 
 * JavaScript
 * jQuery
 * jQuery plug-ins
@@ -169,7 +169,7 @@ Project "Tools" was released in Q-3 of 2009. The objective was to introduce a ne
 
 Lazy loading concept allowed smart and fast on-demand data loading, thus allowing significantly faster performance on the Front End. Data Visualization allowed dynamic rendering and interaction of charts. Implemented system internationalization to serve Latin America.
 
-#### Tech Stack: 
+##### Tech Stack: 
 * JavaScript
 * jQplot.js
 * HTML
@@ -182,7 +182,7 @@ A highly desired feature, "Find It In Store", was launched on macy's site to pro
 
 YUI libraries, MapQuest API intergration, Ajax with JSON formated data, CSS were the main technologies and implementations used to develop this wizard-like flow.
 
-#### Tech Stack: 
+##### Tech Stack: 
 * YUI
 * JavaScript
 * MapQuest API
