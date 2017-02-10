@@ -26,6 +26,7 @@ It allows to:
 #### Tech Stack:
 * Angular 1.5 with Require.js
 * Angular Bootstrap UI
+* Data Structures
 * HTML5
 * CSS2
 * Java
@@ -42,6 +43,7 @@ The project involved building the next version of AppCenter dashboard with up-to
 * Angular 2.0
 * Angular Material Design
 * Angular-Formly: Material Templates
+* Data Structures
 * RESTful API communications
 * Java
 * Node.js
@@ -56,6 +58,7 @@ The project involved a complete UI Architecture of the large scale application, 
 
 #### Tech Stack: 
 * Angular.js + Require.js
+* Data Structures
 * Java
 * Node.js
 * REST APIs
@@ -105,6 +108,7 @@ Botnet Cluster Visualization Prototype is a proof of concept for visualizing sec
 
 #### Tech Stack:
 * d3.js
+* Data Structures
 * Node.js
 * Angular.js
 * Backbone.js
@@ -123,6 +127,7 @@ AT&T’s project AIR entailed building a Business Intelegence Tool for advertise
 #### Tech Stack: 
 * d3.js
 * JavaScript, jQuery
+* Data Structures
 * Backbone.js with Require.js
 * Node.js, Phantom.js
 * HTML5
@@ -139,6 +144,7 @@ Pharmacy project’s objective was to redesign the module, enhance user experien
 * YUI
 * jQuery
 * JavaScript
+* Data Structures
 * HTML5
 * CSS3
 
@@ -152,6 +158,7 @@ Pharmacy project’s objective was to redesign the module, enhance user experien
 * JavaScript
 * jQuery
 * jQuery plug-ins
+* Data Structures
 * HTML5
 * CSS3
 
