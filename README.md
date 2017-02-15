@@ -119,6 +119,23 @@ Botnet Cluster Visualization Prototype is a proof of concept for visualizing sec
 * HTML5
 * Bootstrap
 
+### Norse Corp: Cyber Security Project (11/2013 - 3/2014)
+![Link Attribution](Screen Shot 2017-02-15 at 2.49.04 PM.png)
+
+Conceptualized, wire-framed and built Dashboard for Cyber Security Network Management with Data Visualizing. Socket IO interface to pipe and render network traffic and threat data. Built Link Attribution widget in d3.js to interact and retrieve linking data sets.
+
+##### Tech Stack:
+* d3.js
+* Data Structures
+* Node.js
+* Backbone.js
+* Require.js
+* Handlebars
+* Javascript + jQuery.js
+* CSS
+* HTML5
+* Bootstrap
+
 ### AT&T: AIR BI Tool (5/2011 - 10/2013)
 ![AT&T AIR](ATT_AdWorks_AIR.png)
 
