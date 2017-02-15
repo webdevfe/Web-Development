@@ -49,6 +49,21 @@ The project involved building the next version of AppCenter dashboard with up-to
 * Node.js
 * Docker Containers
 
+### skyPatrol: Pebble Smartwatch App (10/2015 - 09/2016)
+![skyPatrol](skyPatrol_hero.jpg)
+
+skyPatrol displays real-time information of airplanes in the sky, based on user location.
+
+The app is built for smart watch Pebble. When user selects a button to load the info, a request to the API end point is made. The response is a JSON based object that returns data and renders on the screen of the watch.
+
+##### Tech Stack:
+* PHP API 
+* external API
+* JSON
+* Pebble.js
+* Pebble location
+* Pebble Ajax
+
 ### Cisco Intercloud: AMP (Account Management Portal) (1/2015 - 10/2015)
 ![Cisco](Screen Shot 2017-02-15 at 2.20.34 PM.png)
 
@@ -72,21 +87,6 @@ The project involved a complete UI Architecture of the large scale application, 
 * Maven
 * Jenkins
 
-### skyPatrol: Pebble Smartwatch App (9/2014 - 2/2017)
-![skyPatrol](skyPatrol_hero.jpg)
-
-skyPatrol displays real-time information of airplanes in the sky, based on user location.
-
-The app is built for smart watch Pebble. When user selects a button to load the info, a request to the API end point is made. The response is a JSON based object that returns data and renders on the screen of the watch.
-
-##### Tech Stack:
-* PHP API 
-* external API
-* JSON
-* Pebble.js
-* Pebble location
-* Pebble Ajax
-
 ### Monster Cable Products: Mobile Site (7/2014 - 9/2014)
 ![Monster Cable Products](client_monster.jpg)
 
@@ -101,7 +101,7 @@ Enhanced functionality and layout of various components including navigation, su
 * Bootstrap Mobile
 * .Net
 
-### e8Security: Data Visualization (3/2014 - 5/2017)
+### e8Security: Data Visualization (3/2014 - 5/2014)
 ![Botnet Data Viz](botnetClusterFull.png)
 
 Botnet Cluster Visualization Prototype is a proof of concept for visualizing security intelegence data. The graph communicates a scenario where a source IP/domain sends data to destination IP/domain at a particular time period. The feature is built around asynchronous client-server communications utilizing RESful API services, data transformation and custom formatting to feed and render the graph, as well as real-time rich interactions.
