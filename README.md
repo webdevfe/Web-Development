@@ -206,3 +206,26 @@ YUI libraries, MapQuest API intergration, Ajax with JSON formated data, CSS were
 * XML
 * HTML
 * CSS3
+
+### Previous Work:
+![CreditKarma](creditkarma.jpg)
+![Fanlib](fanlib.jpg)
+![CakeFinancial](cakefinancial.jpg)
+![RingBlender](ringblender.jpg)
+![Hitsville Casino](hitsvillecasion.jpg)
+![Virgin Casino](virgincasino.jpg)
+![Simayof](consmr_01simayof.jpg)
+![Allan Town](sch_01allentown.jpg)
+![Conseco](fin_servcs_01conseco.jpg)
+![Dr.McDougal's](food_01mcdouglas.jpg)
+![Smith Hampton](prof_servcs_01smithhampton.jpg)
+![Brooks College](sch_01brooks.jpg)
+![California Culinary Academy](sch_01calcul.jpg)
+![The Chubb Institute](sch_01chubb.jpg)
+![Collins College](sch_01collins.jpg)
+![DeVry University](sch_01devry.jpg)
+![ITT](sch_01itt.jpg)
+![McIntosh College](sch_01mcintosh.jpg)
+![Actify](tech_01actify.jpg)
+
+
