@@ -50,7 +50,7 @@ The project involved building the next version of AppCenter dashboard with up-to
 * Docker Containers
 
 ### Cisco Intercloud: AMP (Account Management Portal) (1/2015 - 10/2015)
-![Cisco](ciscoamp.jpg)
+![Cisco](Screen Shot 2017-02-15 at 2.20.34 PM.png)
 
 This portal was built to allow CISCO Cloud users to have a consistent flow and seamless experience of interacting with various external CISCO systems.
 
