@@ -1,5 +1,5 @@
 ## Professional Experience
-Founder of zElement (Data Visualization Web Application) and skyPatrol (Pebble Smartwatch App), hands-on Manager/Director, UI Architect with solid technical (MEAN and LAMP stacks), operations and product development experience in Agile environment. Most of my latest work is consulting for the duration of the project. 
+Founder of zElement (Data Visualization Web Application) and skyPatrol (Pebble Smartwatch App), hands-on Manager/Director, UI Architect with solid technical (MEAN and LAMP stacks), operations and product development experience in Agile environment. Most of my latest work has been UI architecture / web development consulting projects. 
 
 Tech Stack: Angular.js, Backbone.js, Knockout.js, Require.js, d3.js, Handlebars.js, Haml, Jade,  jQuery, Pebble.js, YUI, Dojo, Underscore.js, Node.js, Phantom.js, Bootstrap, Material Design, JSON, XML, HTML5, CSS3, APIs, AJAX, Socket.IO, PHP, JSP, XSS, Spring, Struts, VMware, XSLT, Java, Rails environments, r.js, Grunt.js, Gulp, Bower, Jenkins, MongoDB, mySQL, responsive design, Maven, Jenkins, Karma, Jasmin, Git, Git Gerrit, Docker.
 
