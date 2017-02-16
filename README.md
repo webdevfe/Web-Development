@@ -208,6 +208,7 @@ YUI libraries, MapQuest API intergration, Ajax with JSON formated data, CSS were
 * CSS3
 
 ### Previous Work:
+![Ofoto](ofoto.jpg)
 ![CreditKarma](creditkarma.jpg)
 ![Fanlib](fanlib.jpg)
 ![CakeFinancial](cakefinancial.jpg)
