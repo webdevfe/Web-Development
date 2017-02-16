@@ -51,6 +51,11 @@ The project involved building the next version of AppCenter dashboard with up-to
 
 ### skyPatrol: Pebble Smartwatch App (10/2015 - 09/2016)
 ![skyPatrol](skyPatrol_hero.jpg)
+![skyPatrol](skyPatrolMenu.png)
+![skyPatrol](standard_step1.jpg)
+![skyPatrol](standard_step2.jpg)
+![skyPatrol](standard_step3a.jpg)
+![skyPatrol](standard_step3b.jpg)
 
 skyPatrol displays real-time information of airplanes in the sky, based on user location.
 
