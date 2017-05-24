@@ -1,7 +1,7 @@
 ## Professional Experience
 UI Architect/Developer with solid technical experience (MEAN and LAMP stacks), hands-on Manager/Director of operations and product development experience in Agile environment. Most of my latest work has been consulting projects and building my own products. 
 
-Tech Stack: Angular.js, Backbone.js, React.js, Knockout.js, Webpack, Require.js, d3.js, ES6, Handlebars, Haml, Jade, jQuery, Pebble.js, YUI, Underscore.js, Node.js, Phantom.js, Bootstrap, Material Design, Semnatic UI, JSON, XML, HTML5, CSS3, APIs, AJAX, Socket.IO, PHP, JSP, XSS, Spring, Struts, XSLT, Java, Rails, r.js, Grunt.js, Gulp, Bower, Jenkins, MongoDB, mySQL, responsive design, Maven, Karma, Jasmin, Git, Git Gerrit, Docker.
+Tech Stack: Angular.js, React.js, Knockout.js, Backbone.js, d3.js, ES6, Handlebars, Haml, Jade, jQuery, Pebble.js, YUI, Node.js, Phantom.js, Underscore, Bootstrap, Material Design, Semnatic UI, JSON, XML, HTML5, CSS3, APIs, AJAX, Socket.IO, PHP, JSP, XSS, Spring, Struts, XSLT, Java, Rails, RequireJS, Webpack, Grunt, Gulp, Bower, Jenkins, MongoDB, mySQL, responsive design, Maven, Karma, Jasmin, Git, Git Gerrit, Docker.
 
 ## Consulting Projects
 
