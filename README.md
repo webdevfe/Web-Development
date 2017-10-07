@@ -117,7 +117,6 @@ Botnet Cluster Visualization Prototype is a proof of concept for visualizing sec
 * Data Structures
 * Node.js
 * Angular.js
-* Backbone.js
 * Require.js
 * Handlebars
 * Javascript + jQuery.js
