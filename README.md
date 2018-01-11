@@ -71,7 +71,7 @@ The app is built for smart watch Pebble. When user selects a button to load the 
 * Pebble Ajax
 
 ### Cisco Intercloud: AMP (Account Management Portal)
-![Cisco](Screen Shot 2017-02-15 at 2.20.34 PM.png)
+![Cisco](ampCisco.png)
 
 This portal was built to allow CISCO Cloud users to have a consistent flow and seamless experience of interacting with various external CISCO systems.
 
