@@ -6,7 +6,8 @@ Tech Stack: React.js, Redux, Vue.js, Angular.js, Backbone.js, Knockout.js, d3.js
 ## Consulting Projects
 
 ### Walmart.com: migration of API Services
-![variantsDebug](variantsDebug.png)
+![variants](variants.png)
+![variants debug](variantsDebug.png)
 
 Walmart Labs updgrated the API Services that caused various high profile bugs. Here's one of them that covers work on the server side prior page render. The new data set no longer returns the same structure and property names and thus causing various compoments to block necessary functionality and end up in errors.
 ##### Tech Stack:
