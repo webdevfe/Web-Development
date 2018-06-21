@@ -5,6 +5,17 @@ Tech Stack: React.js, Redux, Vue.js, Angular.js, Backbone.js, Knockout.js, d3.js
 
 ## Consulting Projects
 
+### Walmart.com: migration of API Services
+![variantsDebug](variantsDebug.png)
+
+Walmart Labs updgrated the API Services that caused various high profile bugs. Here's one of them that covers work on the server side prior page render. The new data set no longer returns the same structure and property names and thus causing various compoments to block necessary functionality and end up in errors.
+##### Tech Stack:
+* React + Redux
+* ES6
+* Node.js
+* Stylus
+* Webpack
+
 ### Stanford VPTL: HST project
 ![Stanford Home Page](Screen Shot 2017-01-20 at 3.07.41 PM.png)
 
