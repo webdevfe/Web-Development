@@ -18,7 +18,7 @@ Walmart Labs updgrated the API Services that caused various high profile bugs. H
 * Webpack
 
 ### Stanford VPTL: HST project
-![Stanford Home Page](Screen Shot 2017-01-20 at 3.07.41 PM.png)
+![Stanford Home Page](stanford.png)
 
 Stanford VPTL group had an objective to release an educational web application that allows professors to create and manage exams. I was involved in a complete UI Architecture and development, from project's inception to the end. The application is focused on complex user interactions with the web interface and RESTful API internal and external services.
 Features:
