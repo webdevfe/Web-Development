@@ -1,7 +1,7 @@
 ## Professional Experience
 UI Architect/Developer with solid technical experience (MEAN and LAMP stacks), hands-on Manager/Director of operations and product development experience in Agile environment. I have been consulting with small and large companies in San Francisco Bay Area. The work bellow represents some of the latest projects. 
 
-Tech Stack: React.js, Redux, Vue.js, Angular.js, Backbone.js, Knockout.js, d3.js, ES6, Webpack, Handlebars, jQuery, Pebble.js, Node.js, Bootstrap, Material Design, Semnatic UI, JSON, XML, HTML5, CSS3, APIs, AJAX, Socket.IO, PHP, JSP, XSS, Spring, Struts, XSLT, Java, Rails, RequireJS, Grunt, Gulp, Bower, Jenkins, MongoDB, mySQL, Responsive Design, Maven, Karma, Jasmin, Git, Git Gerrit, Docker.
+Tech Stack: React.js, Redux, Vue.js, Angular.js, Backbone.js, Knockout.js, d3.js, ES6, Webpack, Handlebars, jQuery, Pebble.js, Node.js, Bootstrap, Material Design, Semantic UI, JSON, XML, HTML5, CSS3, APIs, AJAX, Socket.IO, PHP, JSP, XSS, Spring, Struts, XSLT, Java, Rails, RequireJS, Grunt, Gulp, Bower, Jenkins, MongoDB, mySQL, Responsive Design, Maven, Karma, Jasmin, Git, Git Gerrit, Docker.
 
 ## Consulting Projects
 
