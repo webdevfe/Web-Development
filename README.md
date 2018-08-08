@@ -7,9 +7,9 @@ Web Developer with solid technical experience (MEAN and LAMP stacks) with focus 
 * 18 + years of solid web development experience
 * Clear Professional Communications. No dramas.
 * Managing projects on my own. No need for babysitting
-* Available as needed
+* Available as needed. Client needs first!
 * Honest advise
-* Quality code
+* Quality code delivered on time
 
 Tech Stack: React.js, Redux, Vue.js, Angular.js, Backbone.js, Knockout.js, d3.js, ES6, Webpack, Handlebars, jQuery, Pebble.js, Node.js, Bootstrap, Material Design, Semantic UI, JSON, XML, HTML5, CSS3, APIs, AJAX, Socket.IO, PHP, JSP, XSS, Spring, Struts, XSLT, Java, Rails, RequireJS, Grunt, Gulp, Bower, Jenkins, MongoDB, mySQL, Responsive Design, Maven, Karma, Jasmin, Git, Git Gerrit, Docker.
 
