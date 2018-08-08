@@ -1,3 +1,6 @@
+### I'm looking for a project.
+e: jorawebdev@gmail.com
+
 ## Professional Experience
 UI Architect/Developer with solid technical experience (MEAN and LAMP stacks), hands-on Manager/Director of operations and product development experience in Agile environment. I have been consulting with small and large companies in San Francisco Bay Area. The work bellow represents some of the latest projects. 
 
