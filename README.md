@@ -1,4 +1,4 @@
-### I'm looking for a project.
+### I'm looking for a new project.
 e: jorawebdev@gmail.com
 
 ## Professional Experience
