@@ -28,7 +28,7 @@ Walmart Labs updgrated the API Services that caused various high profile bugs. H
 * Webpack
 
 ### iFrame Selector: myFitment Project
-![iFrame Selector](selector.jpg)
+![iFrame Selector](selector.png)
 
 This widget can be embedded into any 3rd party website by just appending a one line of code. The secure communication is handled via iframe and window.postMessage() mechanism, as the actual app is hosted somewhere else. This widget can be used for easy to integrate chat clients, search boxes and many other cases. In this specific project, the widget is used to search auto parts between 2 independent domains.
 
