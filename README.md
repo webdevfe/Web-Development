@@ -1,4 +1,4 @@
-### I'm looking for a new web development project.
+### Open to new web development projects.
 e: jorawebdev@gmail.com
 
 ## Professional Experience
