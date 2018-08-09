@@ -7,7 +7,7 @@ Web Developer with solid technical experience (MEAN and LAMP stacks) with focus 
 * 18 + years of solid web development experience
 * Clear Professional Communications. No dramas.
 * Managing projects on my own. No need for babysitting
-* Available as needed. Client needs first!
+* Available as needed. Client's needs first!
 * Honest advise
 * Quality code delivered on time
 
