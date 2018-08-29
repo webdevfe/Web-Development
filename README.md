@@ -19,7 +19,7 @@ Tech Stack: React.js, Redux, Vue.js, Angular.js, Backbone.js, Knockout.js, d3.js
 ![variants](variants.png)
 ![variants debug](variantsDebug.png)
 
-Walmart Labs updgrated the API Services that caused various high profile bugs. Here's one of them that covers work on the server side prior page render. The new data set no longer returns the same structure and property names and thus causing various compoments to block necessary functionality and end up in errors.
+Walmart Labs updgrated the API Services that caused various high profile bugs. Here's one of the issues that covers work on the server side area prior page render. The data set no longer returns the same structure and properties, disabling various feature compoments and resulting in page errors.
 ##### Tech Stack:
 * React + Redux
 * ES6
