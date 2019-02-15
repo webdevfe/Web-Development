@@ -265,5 +265,3 @@ YUI libraries, MapQuest API intergration, Ajax with JSON formated data, CSS were
 ![ITT](sch_01itt.jpg)
 ![McIntosh College](sch_01mcintosh.jpg)
 ![Actify](tech_01actify.jpg)
-
-<script src="//myfitment.zelement.com/selector5.5/par/client.js?mfid=sub_A7QDXOudl8TLwI"></script>
