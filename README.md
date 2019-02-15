@@ -266,4 +266,4 @@ YUI libraries, MapQuest API intergration, Ajax with JSON formated data, CSS were
 ![McIntosh College](sch_01mcintosh.jpg)
 ![Actify](tech_01actify.jpg)
 
-
+<script src="https://gist.github.com/jonschlinkert/5854601.js"></script
