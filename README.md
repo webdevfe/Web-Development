@@ -15,6 +15,19 @@ Tech Stack: React.js, Redux, Vue.js, Angular.js, Backbone.js, Knockout.js, d3.js
 
 ## Consulting Projects
 
+### Google: BugDashboard
+![Google BugDashboard](bugdashboard_tableResize.png)
+![Google BugDashboard](bugdashboard_urlLink.png)
+
+Google's internal bugtracking tool is expanding into a larger, centralized application for project overall tracking. A number of highly desirable features needed to be added in order to take the step towards that objective. Dynamic table resizing and adding a custom link would be some of many major enhancements. 
+##### Tech Stack:
+* Angular
+* TypeScript (strict mode)
+* RxJS
+* NGRX
+* Immutable.js
+* Proto Buffer
+
 ### Walmart.com: migration of API Services
 ![variants](variants.png)
 ![variants debug](variantsDebug.png)
