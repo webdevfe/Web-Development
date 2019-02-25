@@ -1,17 +1,18 @@
-### Open to new web development projects.
+### Open to new projects.
 e: jorawebdev@gmail.com
 
 ## Professional Experience
-Web Developer with solid technical experience (MEAN and LAMP stacks) with focus on UI. Hands-on Manager/Director of operations and product development experience in Agile environment. I have been consulting with small and large companies in San Francisco Bay Area. Most of my work cover: Client - Server communication, REST APIs, data visualization, dashboards, security, performance, responsive design and more.
+Web Developer with solid technical experience (MEAN and LAMP stacks) with focus on UI. Hands-on Manager/Director of operations and product development experience in Agile environment. I have been consulting with small and large companies in San Francisco Bay Area. Most of my work cover: Front End web development, major UI Frameworks (Angular, React, View), REST API intergration, data visualization, dashboards, security, performance, responsive design, custom widgets and more.
 
 * 18 + years of solid web development experience
-* Clear Professional Communications. No dramas.
-* Managing projects on my own. No need for babysitting
-* Available as needed. Client's needs first!
+* Clear Professional Communications
+* Project Planning, Implementation, Testing and Deployment.
 * Honest advise
 * Quality code delivered on time
+* Cover all major and latest technologies
+* Available as needed. Client's needs first!
 
-Tech Stack: Angular, React.js, Redux, Vue.js, Backbone.js, Knockout.js, TypeScript, RxJS, NGRX, Immutable.js, d3.js, ES6, Webpack, Handlebars, jQuery, Pebble.js, Node.js, Bootstrap, Material Design, Semantic UI, JSON, XML, HTML5, CSS3, APIs, AJAX, Socket.IO, PHP, JSP, XSS, Spring, Struts, XSLT, Java, Rails, RequireJS, Grunt, Gulp, Bower, Jenkins, MongoDB, mySQL, Responsive Design, Maven, Karma, Jasmin, Git, Git Gerrit, Docker.
+**Tech Stack**: Angular, React.js, Redux, Vue.js, Backbone.js, Knockout.js, TypeScript, RxJS, NGRX, Immutable.js, d3.js, ES6, Webpack, Handlebars, jQuery, Pebble.js, Node.js, Bootstrap, Material Design, Semantic UI, JSON, XML, HTML5, CSS3, APIs, AJAX, Socket.IO, PHP, JSP, XSS, Spring, Struts, XSLT, Java, Rails, RequireJS, Grunt, Gulp, Bower, Jenkins, MongoDB, mySQL, Responsive Design, Maven, Karma, Jasmin, Git, Git Gerrit, Docker.
 
 ## Consulting Projects
 
