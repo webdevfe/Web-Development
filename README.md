@@ -58,11 +58,12 @@ This widget can be embedded into any 3rd party website by just appending a one l
 This internal tool is built to aid development teams with knowing the status of various individual components build within the organization. It queries private GitLab repos, checks and displays changes such as new, removed or modified packages, dependencies. Users can search for projects or navigate the tree. The beckend is connected to the deployment system and with every Jenkin's build a script would kick off a task to push project meta data to the tool's apis. The tool would diconstruct the data set and organize the record in the database.
 
 ##### Tech Stack:
-* React.j and Vue.js
+* React.js and Vue.js
 * Node.js
 * ES6
 * Webpack
 * MongoDB
+* Redis
 
 ### Stanford VPTL: HST project
 ![Stanford Home Page](stanford.png)
