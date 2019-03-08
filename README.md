@@ -2,7 +2,7 @@
 e: jorawebdev@gmail.com
 
 ## Professional Experience
-Web Developer with solid technical experience (MEAN and LAMP stacks) with focus on UI. Hands-on Manager/Director of operations and product development experience in Agile environment. I have been consulting with small and large companies in San Francisco Bay Area. Most of my work cover: Front End web development, major UI Frameworks (Angular, React, View), REST API intergration, data visualization, dashboards, security, performance, responsive design, custom widgets and more.
+Web Developer with solid technical experience (MEAN and LAMP stacks) with focus on UI. Hands-on Manager/Director of operations and product development experience in Agile environment. I have been consulting with small and large companies in San Francisco Bay Area. Most of my work cover: Front End web development, major UI Frameworks (Angular, React.js, Vue.js), REST API intergration, data visualization, dashboards, security, performance, responsive design, custom widgets and more.
 
 * 18 + years of solid web development experience
 * Clear Professional Communications
