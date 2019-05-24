@@ -1,16 +1,16 @@
-### Open To Remote ONLY work
+### Open To Remote work ONLY
 e: jorawebdev@gmail.com
 
 ## Professional Experience
-Web Developer with solid technical experience in San Francisco Bay Area with focus on UI. I work with most of the modern UI frameworks and libraries: Angular, React, Vue, Polymer, LitElement, Web Components and more. On the server side I work with Node.js, PHP and Pythong. I build web and mobil applications with RESTfull APIs.
+Web Developer with solid technical experience of 18+ years in San Francisco Bay Area. I work with most of the modern UI frameworks and libraries: Angular, React, Vue, Polymer, LitElement, Web Components and more. I can build your backend and REST APIs in Node.js, PHP and Python with SQL or NoSQL DBs and deploy to Cloud or traditional servers.
 
+* I work with modern technologies
 * 18 + years of solid web development experience
-* Clear Professional Communications
-* Project Planning, Implementation, Testing and Deployment.
-* Honest advise
+* Clear Professional Communications and honest advise
+* Can cover Project Planning, Implementation, Testing and Deployment
 * Quality code delivered on time
-* Cover all major and latest technologies
-* Available as needed. Client's needs first!
+* Available as needed. Client's needs first.
+* Honest referrals 
 
 **Tech Stack**: JavaScript, Polymer, LitElement, Angular, React.js, Redux, Vue.js, Backbone.js, Knockout.js, TypeScript, RxJS, NGRX, Immutable.js, d3.js, ES6, Webpack, Handlebars, jQuery, Bootstrap, Material Design, Semantic UI, JSON, XML, HTML5, CSS3, SASS, APIs, AJAX, Socket.IO, GraphQL, Node.js, PHP, Python, JSP, XSS, Spring, Struts, XSLT, Java, Rails, RequireJS, Grunt, Gulp, Bower, Jenkins, MongoDB, mySQL, Responsive Design, Maven, Karma, Jasmin, Git, Git Gerrit, Docker.
 
