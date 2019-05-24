@@ -1,8 +1,8 @@
-### Open to new projects.
+### Open To Remote ONLY work
 e: jorawebdev@gmail.com
 
 ## Professional Experience
-Web Developer with solid technical experience (MEAN and LAMP stacks) with focus on UI. Hands-on Manager/Director of operations and product development experience in Agile environment. I have been consulting with small and large companies in San Francisco Bay Area. Most of my work cover: Front End web development, major UI Frameworks (Angular, React.js, Vue.js), REST API intergration, data visualization, dashboards, security, performance, responsive design, custom widgets and more.
+Web Developer with solid technical experience in San Francisco Bay Area with focus on UI. I work with most of the modern UI frameworks and libraries: Angular, React, Vue, Polymer, LitElement, Web Components and more. On the server side I work with Node.js, PHP and Pythong. I build web and mobil applications with RESTfull APIs.
 
 * 18 + years of solid web development experience
 * Clear Professional Communications
@@ -12,7 +12,7 @@ Web Developer with solid technical experience (MEAN and LAMP stacks) with focus 
 * Cover all major and latest technologies
 * Available as needed. Client's needs first!
 
-**Tech Stack**: JavaScript, Angular, React.js, Redux, Vue.js, Backbone.js, Knockout.js, TypeScript, RxJS, NGRX, Immutable.js, d3.js, ES6, Webpack, Handlebars, jQuery, Pebble.js, Node.js, Bootstrap, Material Design, Semantic UI, JSON, XML, HTML5, CSS3, APIs, AJAX, Socket.IO, PHP, JSP, XSS, Spring, Struts, XSLT, Java, Rails, RequireJS, Grunt, Gulp, Bower, Jenkins, MongoDB, mySQL, Responsive Design, Maven, Karma, Jasmin, Git, Git Gerrit, Docker.
+**Tech Stack**: JavaScript, Polymer, LitElement, Angular, React.js, Redux, Vue.js, Backbone.js, Knockout.js, TypeScript, RxJS, NGRX, Immutable.js, d3.js, ES6, Webpack, Handlebars, jQuery, Bootstrap, Material Design, Semantic UI, JSON, XML, HTML5, CSS3, SASS, APIs, AJAX, Socket.IO, GraphQL, Node.js, PHP, Python, JSP, XSS, Spring, Struts, XSLT, Java, Rails, RequireJS, Grunt, Gulp, Bower, Jenkins, MongoDB, mySQL, Responsive Design, Maven, Karma, Jasmin, Git, Git Gerrit, Docker.
 
 ## Consulting Projects
 
@@ -20,7 +20,11 @@ Web Developer with solid technical experience (MEAN and LAMP stacks) with focus 
 ![Google BugDashboard](bugdashboard_tableResize.png)
 ![Google BugDashboard](bugdashboard_urlLink.png)
 
-Google's internal bugtracking tool is expanding into a larger, centralized application for project overall tracking. A number of highly desirable features needed to be added in order to take the step towards that objective. Dynamic table resizing and adding a custom link would be some of many major enhancements. 
+1) Building an AI image recognition web app. 
+##### Tech Stack:
+* Polymer, LitElement, Closure, Redux, Web Components, Python backend with Proto Buffers
+
+2) Google's internal bugtracking tool is expanding into a larger, centralized application for project overall tracking. A number of highly desirable features needed to be added in order to take the step towards that objective. Dynamic table resizing and adding a custom link would be some of many major enhancements. 
 ##### Tech Stack:
 * Angular
 * TypeScript (strict mode)
