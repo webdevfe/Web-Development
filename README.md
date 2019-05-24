@@ -1,4 +1,4 @@
-### Open To Remote work ONLY
+### OPEN TO REMOTE WORK ONLY
 e: jorawebdev@gmail.com
 
 ## Professional Experience
