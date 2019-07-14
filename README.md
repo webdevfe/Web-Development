@@ -299,4 +299,4 @@ YUI libraries, MapQuest API intergration, Ajax with JSON formated data, CSS were
 ![Actify](tech_01actify.jpg)
 
 ### Clients:
-![clients(clientsBanner.png)
+![clients](clientsBanner.png)
