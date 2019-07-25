@@ -2,7 +2,7 @@
 e: jorawebdev@gmail.com
 
 ## Professional Experience
-Web Developer with solid technical experience of 18+ years in San Francisco Bay Area. I work with most of the modern UI frameworks and libraries: Angular, React, Vue, Polymer, LitElement, Web Components and more. I can build your backend and REST APIs in Node.js, PHP and Python with SQL or NoSQL DBs and deploy to Cloud or traditional servers.
+I'm a Generalist Web Developer with solid technical experience in San Francisco Bay Area. I work with most of the modern UI frameworks and libraries: Angular, React, Vue, Polymer, litElement, Web Components and more. On the backend I work with building REST APIs in Node.js, PHP, Python and databases: SQL or NoSQL. I deploy web apps to Cloud or traditional servers.
 
 * 18 + years of solid web development experience
 * I work with modern technologies
@@ -11,7 +11,7 @@ Web Developer with solid technical experience of 18+ years in San Francisco Bay 
 * Quality code delivered on time
 * Available as needed. Client's needs first
 
-**Tech Stack**: JavaScript, Polymer, LitElement, Angular, React.js, Redux, Vue.js, Backbone.js, Knockout.js, TypeScript, RxJS, NGRX, Immutable.js, d3.js, ES6, Webpack, Handlebars, jQuery, Bootstrap, Material Design, Semantic UI, JSON, XML, HTML5, CSS3, SASS, APIs, AJAX, Socket.IO, GraphQL, Node.js, PHP, Python, JSP, XSS, Spring, Struts, XSLT, Java, Rails, RequireJS, Grunt, Gulp, Bower, Jenkins, MongoDB, mySQL, Responsive Design, Maven, Karma, Jasmin, Git, Git Gerrit, Docker.
+**Tech Stack**: JavaScript, Polymer, litElement, Angular, React.js, Redux, Vue.js, Backbone.js, Knockout.js, TypeScript, RxJS, NGRX, Immutable.js, d3.js, ES6, Webpack, Handlebars, jQuery, Bootstrap, Material Design, Semantic UI, JSON, XML, HTML5, CSS3, SASS, APIs, AJAX, Socket.IO, GraphQL, Node.js, PHP, Python, JSP, XSS, Spring, Struts, XSLT, Java, Rails, RequireJS, Grunt, Gulp, Bower, Jenkins, MongoDB, mySQL, Responsive Design, Maven, Karma, Jasmin, Git, Git Gerrit, Docker.
 
 ## Consulting Projects
 
