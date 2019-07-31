@@ -15,23 +15,19 @@ I'm a Generalist Web Developer with solid technical experience in San Francisco 
 
 ## Consulting Projects
 
+### Google: AI
+![Google BugDashboard](bigbangUpload.png)
+Google AI image recognition web app. 
+##### Tech Stack:
+* Polymer, LitElement, Closure, JavaScript, Redux, Web Components, Python backend
+
 ### Google: BugDashboard
 ![Google BugDashboard](bugdashboard_tableResize.png)
 ![Google BugDashboard](bugdashboard_urlLink.png)
 
-1) Building an AI image recognition web app. 
+Google's internal bugtracking tool is expanding into a larger, centralized application for project overall tracking. A number of highly desirable features needed to be added in order to take the step towards that objective. Dynamic table resizing and adding a custom link would be some of many major enhancements. 
 ##### Tech Stack:
-* Polymer, LitElement, Closure, Redux, Web Components, Python backend with Proto Buffers
-
-2) Google's internal bugtracking tool is expanding into a larger, centralized application for project overall tracking. A number of highly desirable features needed to be added in order to take the step towards that objective. Dynamic table resizing and adding a custom link would be some of many major enhancements. 
-##### Tech Stack:
-* Angular
-* TypeScript (strict mode)
-* RxJS
-* NGRX
-* Immutable.js
-* Material Design
-* Proto Buffer
+Angular, TypeScript (strict mode), JavaScript, RxJS, NGRX, Immutable.js, Material Design, Proto Buffer
 
 ### Walmart.com: migration of API Services
 ![variants](variants.png)
@@ -39,21 +35,15 @@ I'm a Generalist Web Developer with solid technical experience in San Francisco 
 
 Walmart Labs updgrated the API Services that caused various high profile bugs. Here's one of the issues that covers work on the server side area prior page render. The data set no longer returns the same structure and properties, disabling various feature compoments and resulting in page errors.
 ##### Tech Stack:
-* React + Redux
-* ES6
-* Node.js
-* Stylus
-* Webpack
+React.js, Redux, ES6, Node.js, Stylus, Webpack, JavaScript
 
-### iFrame Selector: myFitment Project
+### MyFitment: iFrame Selector Project
 ![iFrame Selector](selector.png)
 
 This widget can be embedded into any 3rd party website by just appending a one line of code. The secure communication is handled via iframe and window.postMessage() mechanism, as the actual app is hosted somewhere else. This widget can be used for easy to integrate chat clients, search boxes and in many other cases. In this specific project, the widget is used to search auto parts between 2 independent domains.
 
 ##### Tech Stack:
-* VueJS
-* ES6
-* Webpack
+VueJS, ES6, Webpack, Node.js, JavaScript, HTML5, SCSS
 
 ### Macys.com: Component Browser
 ![Component Browser](polarisComponentBrowser.png)
@@ -61,12 +51,7 @@ This widget can be embedded into any 3rd party website by just appending a one l
 This internal tool is built to aid development teams with knowing the status of various individual components build within the organization. It queries private GitLab repos, checks and displays changes such as new, removed or modified packages, dependencies. Users can search for projects or navigate the tree. The beckend is connected to the deployment system and with every Jenkin's build a script would kick off a task to push project meta data to the tool's apis. The tool would diconstruct the data set and organize the record in the database.
 
 ##### Tech Stack:
-* React.js and Vue.js
-* Node.js
-* ES6
-* Webpack
-* MongoDB
-* Redis
+React.js, Vue.js, JavaScript, Node.js, ES6, Webpack, MongoDB, Redis, Foundation
 
 ### Stanford VPTL: HST project
 ![Stanford Home Page](stanford.png)
@@ -87,15 +72,7 @@ Features:
 * Supports Assesibility
 
 ##### Tech Stack:
-* Angular with Require.js
-* Angular Bootstrap UI
-* REST and Data Structures
-* HTML5
-* CSS2
-* Java
-* SQL DB
-* Maven
-* Jenkins
+Angular, Require.js, JavaScript, Angular Bootstrap UI, Java RESTful backend, Data Structures, HTML5, CSS2, SQL, Maven, Jenkins
 
 ### Teradata: App Center 2.0 
 ![Teradata App Center](Teradata.gif)
@@ -103,15 +80,7 @@ Features:
 The project involved building the next version of AppCenter dashboard with up-to-date UI and UX, better performance and richer features. Integrated Login Auth, LDAP Settings, JSON validation, Stepper and other modules.
 
 ##### Tech Stack: 
-* Angular 2.0
-* EC5
-* Angular Material Design
-* Angular-Formly: Material Templates
-* Data Structures
-* RESTful API communications
-* Java
-* Node.js
-* Docker Containers
+Angular 2, JavaScript, EC5, Angular Material Design, Angular-Formly: Material Templates, Data Structures, RESTful API communications, Java, Node.js, Docker Containers
 
 ### skyPatrol: Pebble Smartwatch App
 ![skyPatrol](skyPatrol_hero.jpg)
@@ -126,12 +95,7 @@ skyPatrol displays real-time information of airplanes in the sky, based on user 
 The app is built for smart watch Pebble. When user selects a button to load the info, a request to the API end point is made. The response is a JSON based object that returns data and renders on the screen of the watch.
 
 ##### Tech Stack:
-* PHP API 
-* external API
-* JSON
-* Pebble.js
-* Pebble location
-* Pebble Ajax
+PHP API, JSON, JavaScript, Pebble.js, Pebble location, Pebble Ajax
 
 ### Cisco Intercloud: AMP (Account Management Portal)
 ![Cisco](Screen Shot 2017-02-15 at 2.20.34 PM.png)
@@ -141,20 +105,7 @@ This portal was built to allow CISCO Cloud users to have a consistent flow and s
 The project involved a complete UI Architecture of the large scale application, integration with external and internal system components, RESTful API, security, authentication, SSO support, permissions, cross system communication, performance optimization, responsive design and more.
 
 ##### Tech Stack: 
-* Angular.js + Require.js
-* Data Structures
-* Java
-* Node.js
-* REST APIs
-* CSS3
-* Bootstrap
-* JavaScript
-* jQuery
-* r.js
-* HTML5
-* redhat
-* Maven
-* Jenkins
+AngularJS, Require.js, Data Structures, Java, Node.js, REST APIs, CSS3, Bootstrap, JavaScript, jQuery, r.js, HTML5, redhat, Maven, Jenkins
 
 ### Monster Cable Products: Mobile Site
 ![Monster Cable Products](client_monster.jpg)
@@ -164,11 +115,7 @@ Converted and refactored site's code to support mobile viewing experience and fu
 Enhanced functionality and layout of various components including navigation, supporting pages navigation, product main pages, main Responsive Design for main story page (http://www.monsterproducts.com/head-monster-story).
 
 ##### Tech Stack: 
-* CSS3 with animations and media queries
-* JavaScript
-* jQuery plug-ins
-* Bootstrap Mobile
-* .Net
+CSS3 with animations and media queries, JavaScript, jQuery plug-ins, Bootstrap Mobile, .Net
 
 ### e8Security: Data Visualization
 ![Botnet Data Viz](botnetClusterFull.png)
@@ -176,16 +123,7 @@ Enhanced functionality and layout of various components including navigation, su
 Botnet Cluster Visualization Prototype is a proof of concept for visualizing security intelegence data. The graph communicates a scenario where a source IP/domain sends data to destination IP/domain at a particular time period. The feature is built around asynchronous client-server communications utilizing RESful API services, data transformation and custom formatting to feed and render the graph, as well as real-time rich interactions.
 
 ##### Tech Stack:
-* d3.js
-* Data Structures
-* Node.js
-* Angular.js
-* Require.js
-* Handlebars
-* Javascript + jQuery.js
-* CSS
-* HTML5
-* Bootstrap
+d3.js, Data Structures, Node.js, AngularJS, Require.js, Handlebars, Javascript, jQuery.js, CSS, HTML5, Bootstrap
 
 ### Norse Corp: Cyber Security Project
 ![Link Attribution](Screen Shot 2017-02-15 at 2.49.04 PM.png)
@@ -193,16 +131,7 @@ Botnet Cluster Visualization Prototype is a proof of concept for visualizing sec
 Conceptualized, wire-framed and built Dashboard for Cyber Security Network Management with Data Visualizing. Socket IO interface to pipe and render network traffic and threat data. Built Link Attribution widget in d3.js to interact and retrieve linking data sets.
 
 ##### Tech Stack:
-* d3.js
-* Data Structures
-* Node.js
-* Backbone.js
-* Require.js
-* Handlebars
-* Javascript + jQuery.js
-* CSS
-* HTML5
-* Bootstrap
+d3.js, Data Structuresm, Node.js, Backbone.js, Require.js, Handlebars, Javascript, jQuery.js, CSS, HTML5, Bootstrap
 
 ### AT&T: AIR BI Tool
 ![AT&T AIR](ATT_AdWorks_AIR.png)
@@ -210,13 +139,7 @@ Conceptualized, wire-framed and built Dashboard for Cyber Security Network Manag
 AT&T’s project AIR entailed building a Business Intelegence Tool for advertisement reporting and analytics. The tool pulled daily Big Data reports (TV, Cell phone, web), rendering in dynamic Data Visualization modules and thus allowing to interact and make scientific inferences, forecasts and computations.
 
 ##### Tech Stack: 
-* d3.js
-* JavaScript, jQuery
-* Data Structures
-* Backbone.js with Require.js
-* Node.js, Phantom.js
-* HTML5
-* CSS3
+d3.js, JavaScript, jQuery, Data Structures, Backbone.js with Require.js, Node.js, Phantom.js, HTML5, CSS3
 
 ### Walmart: Vudu, Pharmacy projects
 ![Walmart Vudu](client_walmart_thumb.jpg)
@@ -226,12 +149,7 @@ Walmart’s Vudu Video Service required client-side code optimization to enhance
 Pharmacy project’s objective was to redesign the module, enhance user experience and support new features. Asynchronous client-server content exhange leveraged via JavaScript, jQuery and JSON as well as re-architecture of global components have improved overall site performance and thus user experience.
 
 ##### Tech Stack: 
-* YUI
-* jQuery
-* JavaScript
-* Data Structures
-* HTML5
-* CSS3
+YUI, jQuery, JavaScript, Data Structures, HTML5, CSS3
 
 ### eBay: shopping.com projects
 ![eBay Shopping.com](client_shopping.jpg)
@@ -240,12 +158,7 @@ Pharmacy project’s objective was to redesign the module, enhance user experien
 "Whislist" was introduced as one of the first e-commerce widgets that became popular with other e-commerce sites.
 
 ##### Tech Stack: 
-* JavaScript
-* jQuery
-* jQuery plug-ins
-* Data Structures
-* HTML5
-* CSS3
+JavaScript, jQuery, jQuery plug-ins, Data Structures, HTML5, CSS3
 
 ### BARCLAYS GLOBAL INVESTORS: Tools, Internationalization Mexico
 ![BGI tools](tools_barclays.jpg)
@@ -255,10 +168,7 @@ Project "Tools" was released in Q-3 of 2009. The objective was to introduce a ne
 Lazy loading concept allowed smart and fast on-demand data loading, thus allowing significantly faster performance on the Front End. Data Visualization allowed dynamic rendering and interaction of charts. Implemented system internationalization to serve Latin America.
 
 ##### Tech Stack: 
-* JavaScript
-* jQplot.js
-* HTML
-* CSS3
+JavaScript, jQplot.js, HTML, CSS3, JSP, JSTL, XML
 
 ### Macy's
 ![macys](macys_sa.jpg)
@@ -268,12 +178,7 @@ A highly desired feature, "Find It In Store", was launched on macy's site to pro
 YUI libraries, MapQuest API intergration, Ajax with JSON formated data, CSS were the main technologies and implementations used to develop this wizard-like flow.
 
 ##### Tech Stack: 
-* YUI
-* JavaScript
-* MapQuest API
-* XML
-* HTML
-* CSS3
+YUI, JavaScript, MapQuest API, XML, HTML, CSS3
 
 ### Previous Work:
 ![Ofoto](ofoto.jpg)
