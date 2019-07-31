@@ -17,6 +17,7 @@ I'm a Generalist Web Developer with solid technical experience in San Francisco 
 
 ### Google: AI
 ![Google BugDashboard](bigbangUpload.png)
+
 Google AI image recognition web app. 
 ##### Tech Stack:
 * Polymer, LitElement, Closure, JavaScript, Redux, Web Components, Python backend
