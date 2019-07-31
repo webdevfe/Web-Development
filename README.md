@@ -2,7 +2,7 @@
 e: jorawebdev@gmail.com
 
 ## Professional Experience
-I'm a Generalist Web Developer with solid technical experience in San Francisco Bay Area. I work with most of the modern UI frameworks and libraries: Angular, React, Vue, Polymer, litElement, Web Components and more. On the backend I work with building REST APIs in Node.js, PHP, Python and databases: SQL or NoSQL. I deploy web apps to Cloud or traditional servers.
+I'm a Web Developer and UI Architect with a solid technical experience working in San Francisco Bay Area. I work with large clients like Google or small startup teams in San Francisco Bay Area. I always keep my skills fresh by staying on the top of the latest technologies and practices.
 
 * 18 + years of solid web development experience
 * I work with modern technologies
