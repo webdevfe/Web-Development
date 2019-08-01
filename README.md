@@ -2,7 +2,7 @@
 e: jorawebdev@gmail.com
 
 ## Professional Experience
-I'm a Web Developer and UI Architect with a solid technical experience working in San Francisco Bay Area. I work with large clients like Google or small startup teams in San Francisco Bay Area. I always keep my skills fresh by staying on the top of the latest technologies and practices.
+I'm a Web Developer and UI Architect with a solid technical experience building web applications in San Francisco Bay Area. I work with large clients like Google or small startup teams with no name... yet. I always keep my skills fresh by staying on the top of the latest technologies, industry trends and practices. I'd like to learn your needs and how I can help you. Please reach out.
 
 * 18 + years of solid web development experience
 * I work with modern technologies
