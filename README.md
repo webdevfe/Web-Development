@@ -44,12 +44,12 @@ React.js, Redux, ES6, Node.js, Stylus, Webpack, JavaScript
 This widget can be embedded into any 3rd party website by just appending a one line of code. The secure communication is handled via iframe and window.postMessage() mechanism, as the actual app is hosted somewhere else. This widget can be used for easy to integrate chat clients, search boxes and in many other cases. In this specific project, the widget is used to search auto parts between 2 independent domains.
 
 ##### Tech Stack:
-VueJS, ES6, Webpack, Node.js, JavaScript, HTML5, SCSS
+React.js, VueJS, ES6, Webpack, Node.js, JavaScript, HTML5, SCSS, Foundation
 
 ### Macys.com: Component Browser
 ![Component Browser](polarisComponentBrowser.png)
 
-This internal tool is built to aid development teams with knowing the status of various individual components build within the organization. It queries private GitLab repos, checks and displays changes such as new, removed or modified packages, dependencies. Users can search for projects or navigate the tree. The beckend is connected to the deployment system and with every Jenkin's build a script would kick off a task to push project meta data to the tool's apis. The tool would diconstruct the data set and organize the record in the database.
+The internal tool is built to aid company's development teams with live information and status of updates for app components developed within the organization. It queries private GitLab repos, checks and displays changes such as new, removed or modified packages, dependencies. Users can search for projects or navigate the tree. The beckend in Node.js and MongoDB is connected to the deployment system and with every Jenkin's build a script would kick off a task to push project meta data to the tool's APIs. The tool's backend would deconstruct the data, create and organize a record in the database.
 
 ##### Tech Stack:
 React.js, Vue.js, JavaScript, Node.js, ES6, Webpack, MongoDB, Redis, Foundation
