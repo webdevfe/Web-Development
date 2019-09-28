@@ -2,14 +2,14 @@
 e: jorawebdev@gmail.com
 
 ## Professional Experience
-I'm a Web Developer and UI Architect with a solid technical experience building web applications in San Francisco Bay Area. As a consultant, I work with large clients like Google or small startup teams with no name... yet. I always keep my skills fresh by staying on the top of the latest technologies, industry trends and practices. I'd like to learn your needs and how I can help you. Please reach out.
+I'm a Web Developer and UI Architect with a solid technical experience building web applications in San Francisco Bay Area. As a consultant, I work with clients to help deliver high visibility projects and meet their technical objectives. I always keep my skills fresh by staying on the top of the latest technologies, industry trends and practices. I'd like to learn your needs. Please reach out.
 
 * 18 + years of solid web development experience
 * I work with modern technologies
 * Clear professional communications and honest advise
-* Can cover project planning, design, implementation, testing and deployment
 * Quality code delivered on time
 * Available as needed. Client's needs first
+* Can provide references 
 
 **Tech Stack**: JavaScript, Polymer, LitElement, Angular, React, Redux, Vue.js, Backbone, Knockout, TypeScript, Google Closure, RxJS, NGRX, Immutable.js, d3.js, ES6, Webpack, Handlebars, jQuery, Web Components, Paper, Bootstrap, Material Design, Semantic UI, JSON, XML, HTML5, CSS3, SASS, GraphQL, APIs, AJAX, Socket.IO, Node.js, PHP, Python, JSP, XSS, Spring, Struts, XSLT, Java, Rails, RequireJS, Grunt, Gulp, Bower, Jenkins, MongoDB, mySQL, Responsive Design, Maven, Karma, Jasmin, Git, Git Gerrit, Docker.
 
