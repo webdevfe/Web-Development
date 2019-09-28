@@ -11,7 +11,7 @@ I'm a Web Developer and UI Architect with a solid technical experience building 
 * Quality code delivered on time
 * Available as needed. Client's needs first
 
-**Tech Stack**: JavaScript, Polymer, litElement, Angular, React.js, Redux, Vue.js, Backbone.js, Knockout.js, TypeScript, RxJS, NGRX, Immutable.js, d3.js, ES6, Webpack, Handlebars, jQuery, Bootstrap, Material Design, Semantic UI, JSON, XML, HTML5, CSS3, SASS, APIs, AJAX, Socket.IO, GraphQL, Node.js, PHP, Python, JSP, XSS, Spring, Struts, XSLT, Java, Rails, RequireJS, Grunt, Gulp, Bower, Jenkins, MongoDB, mySQL, Responsive Design, Maven, Karma, Jasmin, Git, Git Gerrit, Docker.
+**Tech Stack**: JavaScript, Polymer, LitElement, Angular, React, Redux, Vue.js, Backbone, Knockout, TypeScript, Google Closure, RxJS, NGRX, Immutable.js, d3.js, ES6, Webpack, Handlebars, jQuery, Web Components, Paper, Bootstrap, Material Design, Semantic UI, JSON, XML, HTML5, CSS3, SASS, GraphQL, APIs, AJAX, Socket.IO, Node.js, PHP, Python, JSP, XSS, Spring, Struts, XSLT, Java, Rails, RequireJS, Grunt, Gulp, Bower, Jenkins, MongoDB, mySQL, Responsive Design, Maven, Karma, Jasmin, Git, Git Gerrit, Docker.
 
 ## Consulting Work
 
