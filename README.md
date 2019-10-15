@@ -2,13 +2,13 @@
 e: jorawebdev@gmail.com
 
 ## Professional Experience
-I'm a Web Developer and UI Architect with a solid technical experience building web applications in San Francisco Bay Area. As a consultant, I work with clients to help deliver high visibility projects and meet their technical objectives. I always keep my skills fresh by staying on the top of the latest technologies, industry trends and practices. I'd like to learn your needs. Please reach out.
+I'm a UI Architect with a solid technical experience building web applications for companies in San Francisco Bay Area. As a hands-on web developer I work with clients on consulting basis to meet their technical objectives with quality code and on time. I always keep my skills fresh by staying on top of the latest technologies, industry trends and practices. I would love to learn your company's needs. Please reach out.
 
 * 18 + years of solid web development experience
 * I work with modern technologies
 * Clear professional communications and honest advise
 * Quality code delivered on time
-* Available as needed. Client's needs first
+* Can meet in person if you're in San Francisco Bay Area
 * Can provide references 
 
 **Tech Stack**: JavaScript, Polymer, LitElement, Angular, React, Redux, Vue.js, Backbone, Knockout, TypeScript, Google Closure, RxJS, NGRX, Immutable.js, d3.js, ES6, Webpack, Handlebars, jQuery, Web Components, Paper, Bootstrap, Material Design, Semantic UI, JSON, XML, HTML5, CSS3, SASS, GraphQL, APIs, AJAX, Socket.IO, Node.js, PHP, Python, JSP, XSS, Spring, Struts, XSLT, Java, Rails, RequireJS, Grunt, Gulp, Bower, Jenkins, MongoDB, mySQL, Responsive Design, Maven, Karma, Jasmin, Git, Git Gerrit, Docker.
@@ -26,7 +26,7 @@ Google AI image recognition web app.
 ![Google BugDashboard](bugdashboard_tableResize.png)
 ![Google BugDashboard](bugdashboard_urlLink.png)
 
-Google's internal bugtracking tool is expanding into a larger, centralized application for project overall tracking. A number of highly desirable features needed to be added in order to take the step towards that objective. Dynamic table resizing and adding a custom link would be some of many major enhancements. 
+Google's internal bugt racking tool is expanding into a larger, centralized application for project overall tracking. A number of highly desirable features needed to be added in order to take the step towards that objective. Dynamic table resizing and adding a custom link would be some of many major enhancements. 
 ##### Tech Stack:
 Angular, TypeScript (strict mode), JavaScript, RxJS, NGRX, Immutable.js, Material Design, Proto Buffer
 
