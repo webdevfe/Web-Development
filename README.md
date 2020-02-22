@@ -2,7 +2,7 @@
 e: jorawebdev@gmail.com
 
 ## Professional Experience
-I'm a UI Architect with a solid technical experience building web applications for companies in San Francisco Bay Area. As a hands-on web developer I work with clients on consulting basis to meet their technical objectives with quality code and on time. I always keep my skills fresh by staying on top of the latest technologies, industry trends and practices. I would love to learn your company's needs. Please reach out.
+I'm a UI Architect, web developer, entrepreneur with solid technical experience building modern web applications with performance, scalability, security, responsiveness and accessibility in mind. I work with clients in San Francisco Bay Area and outside to help them achieve their technical goals. I always keep my skills fresh by staying on top of the latest technologies, industry trends and practices. My projects cover data visualization, APIs, various UI frameworks, responsive design and more. I would love to learn your company's needs. Please reach out.
 
 * 18 + years of solid web development experience
 * I work with modern technologies
@@ -11,7 +11,7 @@ I'm a UI Architect with a solid technical experience building web applications f
 * Can meet in person if you're in San Francisco Bay Area
 * Can provide references 
 
-**Tech Stack**: JavaScript, Polymer, LitElement, Angular, React, Redux, Vue.js, Backbone, Knockout, TypeScript, Google Closure, RxJS, NGRX, Immutable.js, d3.js, ES6, Webpack, Handlebars, jQuery, Web Components, Paper, Bootstrap, Material Design, Semantic UI, JSON, XML, HTML5, CSS3, SASS, GraphQL, APIs, AJAX, Socket.IO, Node.js, PHP, Python, JSP, XSS, Spring, Struts, XSLT, Java, Rails, RequireJS, Grunt, Gulp, Bower, Jenkins, MongoDB, mySQL, Responsive Design, Maven, Karma, Jasmin, Git, Git Gerrit, Docker.
+**Tech Stack**: JavaScript, Web Components, LitElement, Angular, React, Redux, Vue.js, Backbone, Knockout, TypeScript, Google Closure, RxJS, NGRX, Immutable.js, d3.js, ES6, Webpack, Handlebars, jQuery, Web Components, Paper, Bootstrap, Material Design, Semantic UI, JSON, XML, HTML5, CSS3, SASS, GraphQL, APIs, AJAX, Socket.IO, Node.js, PHP, Python, JSP, XSS, Spring, Struts, XSLT, Java, Rails, RequireJS, Grunt, Gulp, Bower, Jenkins, MongoDB, mySQL, Responsive Design, Maven, Karma, Jasmin, Git, Git Gerrit, Docker.
 
 ## Consulting Work
 
