@@ -2,7 +2,7 @@
 e: jorawebdev@gmail.com
 
 ## Professional Experience
-I'm a UI Architect with a solid technical experience building web applications for companies in San Francisco Bay Area. As a hands-on web developer I work with clients on consulting basis to meet their technical objectives with quality code and on time. I always keep my skills fresh by staying on top of the latest technologies, industry trends and practices. I would love to learn your company's needs. Please reach out.
+I’m a web developer with a solid technical experience building modern web applications with performance, secuirty and scalability in mind. I work with clients in and outside of San Francisco Bay Area on projects focused on [data visualization](https://sheltered-waters-64829.herokuapp.com/), **API development and integration**, **UI frameworks**: (React, Angular, Web Components, Vue), **responsive design**, **accessibility** and more. I always keep my skills fresh by staying on top of the latest technologies, industry trends and practices. I would love to learn about your company’s needs and see how I can be of help. Please reach out.
 
 * 18 + years of solid web development experience
 * I work with modern technologies
