@@ -15,6 +15,13 @@ I’m a web developer with a solid technical experience building modern web appl
 
 ## Consulting Work
 
+### Cred, Inc.
+![Cred](cred_mobile.png)
+
+Re-architected Front End based on the tech stack: React, Redux, Node.js, Webpack, JavaScript. Implemented: JWT token based secure authentication and auth for the app, JavaScript SDK, improved and streamlined performance, optimized and refactored code, migration to new version of APIs, support of mobile and web. 
+##### Tech Stack:
+* React, Redux, Node.js, Webpack, JavaScript
+
 ### Google: AI
 ![Google BugDashboard](bigbangUpload.png)
 
